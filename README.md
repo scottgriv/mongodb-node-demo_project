@@ -5,6 +5,7 @@
         <img src="./docs/images/icon.png" width="150" height="150"/>
     </a>
 </div>
+<br>
 <p align="center">
     <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-14.15.4-339933?style=for-the-badge&logo=nodedotjs" alt="Node.js Badge" /></a>
     <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4.4-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB Badge" /></a>
