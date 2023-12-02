@@ -68,7 +68,7 @@ This format communicates the key aspects of the Apache License 2.0 and guides us
 
 ## Credits
 
-**Forked From:** [Node.js Quick Start](https://github.com/mongodb-developer/nodejs-quickstart)
+**Forked From:** [Node.js Quick Start](https://github.com/mongodb-developer/nodejs-quickstart) <br>
 **Additional Details:** The code in this repository was created by following a [tutorial](https://www.mongodb.com/developer/languages/javascript/node-connect-mongodb/) written by **Lauren Schaefer**. I would like to express my gratitude to **Lauren Schaefer** for their contribution to this project.
 
 **Author:** [Scott Grivner](https://github.com/scottgriv) <br>
