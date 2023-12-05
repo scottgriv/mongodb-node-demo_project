@@ -1,14 +1,14 @@
 <!-- Begin README -->
 
 <div align="center">
-    <a href="https://github.com/scottgriv/node-mongo_db_demo" target="_blank">
+    <a href="https://github.com/scottgriv/mongodb-node-demo_project" target="_blank">
         <img src="./docs/images/icon.png" width="150" height="150"/>
     </a>
 </div>
 <br>
 <p align="center">
-    <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-14.15.4-339933?style=for-the-badge&logo=nodedotjs" alt="Node.js Badge" /></a>
     <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4.4-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB Badge" /></a>
+    <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-14.15.4-339933?style=for-the-badge&logo=nodedotjs" alt="Node.js Badge" /></a>
     <br>
     <a href="https://github.com/scottgriv"><img src="https://img.shields.io/badge/github-follow_me-181717?style=for-the-badge&logo=github&color=181717" alt="GitHub Badge" /></a>
     <a href="mailto:scott.grivner@gmail.com"><img src="https://img.shields.io/badge/gmail-contact_me-EA4335?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
@@ -75,7 +75,7 @@ I would like to express my gratitude to **Lauren Schaefer** for their contributi
 **Author:** [Scott Grivner](https://github.com/scottgriv) <br>
 **Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
 **Website:** [scottgrivner.dev](https://www.scottgrivner.dev) <br>
-**Reference:** [Main Branch](https://github.com/scottgriv/node-mongo_db_demo) <br>
+**Reference:** [Main Branch](https://github.com/scottgriv/mongodb-node-demo_project) <br>
 
 ---------------
 
