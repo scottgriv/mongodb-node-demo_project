@@ -14,8 +14,8 @@ This file is used to connect this repository to the **PRG** project categorizati
 
 **Repository Tier:** Bronze <br>
 **Technology:** MongoDB, Node.js <br>
-**Category:** Database, API, Tutorial <br>
-**Order:** 0 <br>
+**Category:** NoSQL Database, API, Tutorial <br>
+**Order:** 52 <br>
 
 ## Parameters
 
